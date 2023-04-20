@@ -11,8 +11,8 @@ Pass_gen Generates a strong password that you can use
   ...easy to remember
   ....high entropy
   .....padding between the words
-  ......custome names
-  .......20+ chracters
+  ......custom names
+  ........20+ chracters
   
   in current 21 century the hackers and attackers are growing
   every day and attacking on accounts by mainly using brute force
@@ -23,3 +23,4 @@ Pass_gen Generates a strong password that you can use
   Pass_gen is created by the using Python language we can
   run this tool on our termux,linux, windows etc.,and this
   project got its motivation from UltimateHackers
+##EDIVALUE
